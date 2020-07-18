@@ -17,5 +17,5 @@ Data is preprocessed by calling the [preprocess](preprocess.py) function. Prepro
 [NTE](NTE.py), [Partial Directed Coherence](PDC.py) returns adjacency matrix graph estimated by NTE and PDC respectively. Similarly, information flwo graphs using  Transfer Entropy and Granger Causality can be obtained by running the corresponding scripts. [Graph Similarity](GED.py) estimates graph edit distance between any two adjacency matrices.
 
 ## Discussion ##
-For detailed analysis and discussion kindly look at [report](Report.pdf)
+For detailed analysis and discussion kindly look at [my project report](Report.pdf)
 
