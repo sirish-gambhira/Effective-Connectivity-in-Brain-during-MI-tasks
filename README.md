@@ -1,5 +1,6 @@
 ## Aim ##
-The aim of the project is to observe Effective Connectivity during motor imagery tasks and compare it with neuroscientific literature. Normalised Transfer Entropy and Partial Directed Coherence are used to generate information flow graphs. The information flow graphs are evaluated with those of Transfer Entropy and Granger Causality using Graph Similarity Metrics.
+
+The aim of the project is to observe Effective Connectivity in Brain during motor imagery tasks and compare it with neuroscientific literature. Normalised Transfer Entropy and Partial Directed Coherence are used to generate information flow graphs. The information flow graphs are evaluated with those of Transfer Entropy and Granger Causality using Graph Similarity Metrics.
 
 ### Dataset Description ###
 
@@ -13,8 +14,8 @@ Data is preprocessed by calling the [preprocess](preprocess.py) function. Prepro
 
 ### Effective Connectivity ###
 
-[NTE](NTE.py), [Partial Directed Coherence](PDC.py) returns adjacency matrix graph estimated by NTE and PDC respectively. Similarly information flwo graphs of Transfer Entropy and Granger Causality can be obtained by running the corresponding scripts. [Graph Similarity](GED.py) estimates graph edit distance between any two adjacency matrices.
+[NTE](NTE.py), [Partial Directed Coherence](PDC.py) returns adjacency matrix graph estimated by NTE and PDC respectively. Similarly, information flwo graphs using  Transfer Entropy and Granger Causality can be obtained by running the corresponding scripts. [Graph Similarity](GED.py) estimates graph edit distance between any two adjacency matrices.
 
-## Report ##
-For detailed analysis and conclusion kindly look at [my project report](Report.txt)
+## Discussion ##
+For detailed analysis and discussion kindly look at [report](Report.pdf)
 
