@@ -6,7 +6,7 @@ The aim of the project is to study Effective Connectivity in Brain during motor 
 * networkx
 * pyitlib
 * IDTxl
-* coonectivipy
+* connectivipy
 * scipy
 
 ### Pipeline ###
